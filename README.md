@@ -22,7 +22,7 @@ This portfolio supports my career path toward becoming a Junior Penetration Test
 eJPTv2 certification, my background in software development, and my ongoing work in expanding my
 offensive security skillset.
 
-## 📑 Structure of Each Report
+## Structure of Each Report
 
 Every report follows a professional penetration testing structure, including:
 
